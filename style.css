@@ -20,16 +20,19 @@ header {
 
 nav {
     border: 2px solid #999;
+    margin-bottom: 10px;
 }
 
 section {
-    
+    border: 2px solid #999;
+    margin-bottom: 10px;
 }
 
 aside {
-
+    border: 2px solid #999;
+    margin-bottom: 10px;
 }
 
 footer {
-
+    border: 2px solid #999;
 }
